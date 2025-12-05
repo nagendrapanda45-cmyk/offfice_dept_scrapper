@@ -1,0 +1,2 @@
+country,crawler_name,currency,domain_name,http_status,lang_code,lang_id,pagination_url,processed_date,product_url,retailer_id,retailer_name,scrap_datetime,scrap_timestamp,status
+Mexico,office_depot,MXN,officedepot.com.mx,200,es-MX,es,https://www.officedepot.com.mx/officedepot/en/Categor%C3%ADa/Todas/computo/laptops-y-macbook/c/04-039-0-0,2025-06-26,https://www.officedepot.com.mx/officedepot/en/Categor%C3%ADa/Todas/computo/laptops-y-macbook/c/04-039-0-0,office_depot_mx,Office Depot Mexico,2025-06-26 19:06:02,1750944962,False
